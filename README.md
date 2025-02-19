@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Warehouse Project**
 
-- 🌱 I’m currently learning **AWS, ReactJS, Docker**
+- 🌱 I’m currently learning **AWS, ReactJS, Docker, SwiftUI**
 
 - 👯 I’m looking to collaborate on **ETL Pipeline projects**
 
